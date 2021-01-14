@@ -1,7 +1,7 @@
 .navbar-brand img{
 
-    height: 80px;
-    width:300px;
+    height: 100px;
+    width:400px;
 }
 
 .head-class{
@@ -9,8 +9,12 @@
 }
 
 .penguin-image img{
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 200px;
+   
+    margin: auto;
+    margin-top: 18px
+   
 }
 
 .penguin-form{
@@ -21,4 +25,9 @@
     background-image:linear-gradient(180deg, rgb(192, 238, 213), rgb(49, 121, 73));
     color:white;
     border-radius: 10px;
+}
+.icon img{
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
 }
